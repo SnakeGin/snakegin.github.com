@@ -21,7 +21,7 @@ I am an undergraduate student at the **School of Cyber Science and Engineering, 
 
 ## 🚀 Key Projects | 核心项目
 
-### 📄 **AI Video Forensic Research** (First Author | ICASSP In-Submission)
+### 📄 **AI Video Forensic Research** (First Author | IJCNN 2026 In-Submission)
 * **Description:** Developed a robust detection framework for AI-generated videos using Multi-modal LLMs.
 * **Impact:** Outperformed SoTA methods by 3-5% AUC on unseen generators; maintained high performance (80-90% AUC) under heavy perturbations like compression and blurring.
 
