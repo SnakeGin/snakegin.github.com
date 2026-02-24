@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 佘俊杰 · Junjie She
@@ -88,61 +87,6 @@
 - 四川大学程序设计大赛（腾讯杯）｜决赛入围  
 
 ---
-
-# 🇺🇸 English CV
-
-## 🎓 Education
-
-| Period | Institution | Major | Degree |
-|---|---|---|---|
-| Sep. 2022 – Present | Sichuan University | Cybersecurity | B.Eng. |
-
-- GPA: **3.69 / 4.0** (87.96 / 100)  
-- Rank: **Top 15% (24 / 152)**  
-- CET-4: 582 ｜ CET-6: 518  
-- Scholarships: Merit-based (2nd Prize ×1, 3rd Prize ×1)
-
----
-
-## 🔬 Research & Projects
-
-### 🧠 IJCNN 2026 (CCF-C) Submission | First Author  
-**Jun. 2025 – Present**
-
-- Proposed structured representations for AI-generated video forensics  
-- Introduced **SVO-inspired modeling** with multi-modal large language models  
-- Achieved **3–5% AUC improvement** over SoTA on seen and unseen generators  
-- Maintained **80–90% AUC** under multiple perturbations
-
----
-
-### 🚀 Provincial Undergraduate Innovation Project | Team Leader  
-**Sep. 2024 – Sep. 2025**
-
-**Project**: **VideoSupervisor**
-
-- AI-generated video detection and source attribution system  
-- Feature fusion using noise residuals, color, optical flow, and depth  
-- Generator attribution across **8 generators** (e.g., Sora, Runway)  
-- Multi-modal consistency analysis between video content and titles  
-- Accuracy ≈ **90%**, AUC ≈ **88%**  
-- Software copyright granted (First Author)
-
----
-
-## 🛠️ Skills
-
-| Category | Details |
-|---|---|
-| Programming | C / C++, Python |
-| Deep Learning | PyTorch, Keras |
-| Computer Vision | OpenCV, NumPy, Matplotlib |
-| Systems | Linux, model training & deployment |
-| Tools | LaTeX, Git, Office |
-| Research Interests | Multimedia forensics, AI security |
-
----
-
 <div align="center">
 
 📄 *Last updated: 2026*  
