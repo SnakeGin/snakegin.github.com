@@ -8,10 +8,7 @@
 
 ---
 
-## 🌎 English Version
-
-<details>
-<summary><b>Click to expand my detailed CV (English)</b></summary>
+# 🌎 English Version
 
 ### 📝 Profile
 * **University:** Sichuan University (SCU)
@@ -27,43 +24,39 @@
 
 ### 🚀 Research & Projects
 
-#### 📄 **AI Video Forensic Research** (First Author | IJCNN 2026 In-Submission)
+#### 📄 AI Video Forensic Research (First Author | IJCNN 2026 In-Submission)
 * **Core Innovation:** Inspired by natural language, designed a **Subject-Verb-Object (SVO)** structural framework to improve cross-modal semantic alignment using MLLMs.
-* **Key Achievements:** * Outperformed SoTA methods by **3-5% AUC** on both seen and unseen generators.
+* **Key Achievements:**
+    * Outperformed SoTA methods by **3-5% AUC** on both seen and unseen generators.
     * Maintained high robustness (**80-90% AUC**) under heavy perturbations (e.g., re-compression), surpassing SoTA by 5-10%.
     * Proved that the structural design significantly enhances semantic alignment between text and video sequences.
 * **Role:** Conceptualization, methodology design, model training/evaluation, and paper writing.
 
-#### 🛠️ **VideoSupervisor System** (Project Leader | Provincial Innovation Program)
+#### 🛠️ VideoSupervisor System (Project Leader | Provincial Innovation Program)
 * **Description:** A comprehensive system for short video authenticity tracing and multi-modal correlation analysis.
 * **Technical Details:**
     * Integrated **ResNet** for multi-dimensional feature fusion (noise residual, color, optical flow, and depth).
     * Deployed **VideoLLaMa3** to analyze correlations between video content and titles for misleading content detection.
-* **Results:** * Achieved **90% Accuracy** in general AI detection and **80% Accuracy** in identifying 8+ specific generators (e.g., Sora, Runway, Luma).
+* **Results:**
+    * Achieved **90% Accuracy** in general AI detection and **80% Accuracy** in identifying 8+ specific generators (e.g., Sora, Runway, Luma).
     * Successfully obtained **1 Software Copyright** for the integrated software system.
 
 ### 🛠️ Tech Stack
-* **Languages:** Python (Primary), C/C++ (STL)
+* **Languages:** Python, C/C++ (STL)
 * **Frameworks:** PyTorch, Keras
 * **Libraries:** OpenCV, Numpy, Matplotlib
-* **Infrastructure:** Linux Server Management, Model Deployment, Git, LaTeX
 * **English:** CET-4 (582) | CET-6 (518)
 
 ### 🏆 Honors & Awards
-* **Academic Service:** Reviewer for **IJCNN 2026** (CCF-C recommended conference).
-* **Honorary Titles:** SCU Outstanding Student (2025).
+* **Academic Service:** Reviewer for **IJCNN 2026** (CCF-C).
+* **Recognition:** SCU Outstanding Student (2025).
 * **Scholarships:** Single 2nd Class Scholarship | Comprehensive 3rd Class Scholarship.
-* **Competitions:** Provincial 3rd Prize in Contemporary Undergraduate Mathematical Modeling Contest (2025).
-* **Software:** 1st Author of China Computer Software Copyright.
-
-</details>
+* **Innovation:** Leader of Provincial Innovation Program | 1 Software Copyright (1st Author).
+* **Competitions:** Provincial 3rd Prize in Mathematical Modeling.
 
 ---
 
-## 🇨🇳 中文版本
-
-<details>
-<summary><b>点击展开详细个人简历（中文）</b></summary>
+# 🇨🇳 中文版本
 
 ### 📝 个人简介
 * **学校：** 四川大学 (SCU)
@@ -79,36 +72,29 @@
 
 ### 🚀 科研与项目经历
 
-#### 📄 **AI 视频取证研究** (第一作者 | IJCNN 2026 在投)
-* **核心创新：** 受自然语言启发设计了**主谓宾 (SVO) 结构化框架**，借助多模态大模型（MLLM）强大的理解能力提升视频表征学习。
-* **科研成果：** * 在面对未知生成器 (unseen generator) 时，AUC 超过 SoTA 方法 **3-5%**。
-    * 在应对不同扰动（如重压缩）时保持 **80%-90% 的 AUC**（领先 SoTA 方法 5%-10%）。
-    * 实验证明该结构设计大幅增强了文本与视频图像间的语义对齐，有助于学习视频序列的细微表征差异。
-* **职责：** 负责概念化设计、方法框架构建、模型训练评估及论文撰写。
+#### 📄 AI 视频取证研究 (第一作者 | IJCNN 2026 在投)
+* **核心创新点：** 设计了**主谓宾 (SVO) 结构化框架**，借助多模态大模型（MLLM）提升跨模态语义对齐。
+* **主要成果：**
+    * 面对未知生成器时，AUC 超过现有最优（SoTA）方法 **3-5%**。
+    * 在重压缩等扰动下保持 **80%-90% 的 AUC**（领先 SoTA 方法 5%-10%）。
+* **工作内容：** 负责框架设计、模型训练评估及论文撰写。
 
-#### 🛠️ **VideoSupervisor 系统** (项目负责人 | 省级大创项目)
+#### 🛠️ VideoSupervisor 系统 (项目负责人 | 省级大创项目)
 * **项目描述：** 面向短视频平台的真伪溯源取证与多模态关联分析系统。
-* **技术细节：**
-    * 结合视频噪声残差、色彩、光流及景深特征，基于 **ResNet** 进行多维度特征融合学习。
-    * 部署 **VideoLLaMa3** 模型，通过分析视频内容与标题的语义关联，判断是否存在误导现象。
-* **项目产出：** * AI 检测平均准确率达 90%，可识别 **8 种主流生成器**（包括 Sora, Runway, Luma 等）。
-    * 基于模型功能开发的软件系统已成功申请 **1 项国家软件著作权**。
+* **技术方案：**
+    * 结合视频噪声残差、色彩、光流及景深，基于 **ResNet** 进行多维度特征融合。
+    * 部署 **VideoLLaMa3** 模型，通过视频与标题的语义一致性检测误导内容。
+* **项目成果：** 平均检测率 90%，支持 Sora、Runway 等 8 种主流模型识别，获 **1 项国家软件著作权**。
 
 ### 🛠️ 技术栈
-* **编程语言：** Python, C/C++ (STL)
-* **深度学习：** PyTorch, Keras 框架
-* **工具库：** OpenCV, Numpy, Matplotlib
-* **工程能力：** Linux 服务器部署与训练, Git, LaTeX
+* **编程语言：** Python, C/C++
+* **框架工具：** PyTorch, Keras, OpenCV, Linux, Git, LaTeX
 * **语言能力：** 英语四级 (582) | 英语六级 (518)
 
 ### 🏆 奖励荣誉
-* **学术服务：** **IJCNN 2026** (CCF-C类会议) 审稿人
-* **个人荣誉：** 四川大学 2025 学年校级优秀学生
-* **奖学金：** 单项二等奖学金、综合三等奖学金
-* **创新竞赛：** 2025 中国大学生数学建模竞赛省级三等奖
-* **知识产权：** 国家计算机软件著作权（一作）
-
-</details>
+* **学术服务：** **IJCNN 2026** 会议审稿人
+* **校级荣誉：** 四川大学 2025 校级优秀学生、单项/综合奖学金
+* **创新竞赛：** 数学建模竞赛省级三等奖、国家软件著作权（一作）
 
 ---
 
