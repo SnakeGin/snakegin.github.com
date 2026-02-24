@@ -1,119 +1,154 @@
-# 👋 Hi, I'm Junjie She (佘俊杰)
+# 佘俊杰 | Junjie She
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-AI%20Security%20%7C%20Video%20Forensics-blue?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Sichuan%20University-Cyber%20Security-red?style=flat-square" alt="Education">
-  <img src="https://img.shields.io/badge/Reviewer-IJCNN%202026-green?style=flat-square" alt="Reviewer">
-</p>
-
-
----
-
-# 🌎 English Version
-
-### 📝 Profile
-
-* **University:** Sichuan University (SCU)
-* **College:** School of Cyber Science and Engineering
-* **Status:** Undergraduate (Class of 2027)
-* **Academic Standing:** **Top 15% (24/152)** && GPA: **3.69/4.0** (Major Score: 87.96/100)
-* **Focus:** Multimedia Forensics, AI Security, and Deep Learning.
-
-### 🔍 Research Interests
-
-* **Video Forensics:** Advanced detection and source tracing of AI-generated/Deepfake videos.
-* **AI Security:** Enhancing model robustness and generalization against adversarial perturbations (compression, noise, blurring).
-* **Multi-modal Learning:** Leveraging Multi-modal LLMs (MLLMs) for semantic understanding and structural alignment.
-
-### 🚀 Research & Projects
-
-#### 📄 AI Video Forensic Research (First Author | IJCNN 2026 In-Submission)
-
-* **Core Innovation:** Inspired by natural language, designed a **Subject-Verb-Object (SVO)** structural framework to improve cross-modal semantic alignment using MLLMs.
-* **Key Achievements:**
-  * Outperformed SoTA methods by **3-5% AUC** on both seen and unseen generators.
-  * Maintained high robustness (**80-90% AUC**) under heavy perturbations (e.g., re-compression), surpassing SoTA by 5-10%.
-  * Proved that the structural design significantly enhances semantic alignment between text and video sequences.
-* **Role:** Conceptualization, methodology design, model training/evaluation, and paper writing.
-
-#### 🛠️ VideoSupervisor System (Project Leader | Provincial Innovation Program)
-
-* **Description:** A comprehensive system for short video authenticity tracing and multi-modal correlation analysis.
-* **Technical Details:**
-  * Integrated **ResNet** for multi-dimensional feature fusion (noise residual, color, optical flow, and depth).
-  * Deployed **VideoLLaMa3** to analyze correlations between video content and titles for misleading content detection.
-* **Results:**
-  * Achieved **90% Accuracy** in general AI detection and **80% Accuracy** in identifying 8+ specific generators (e.g., Sora, Runway, Luma).
-  * Successfully obtained **1 Software Copyright** for the integrated software system.
-
-### 🛠️ Tech Stack
-
-* **Languages:** Python, C/C++ (STL)
-* **Frameworks:** PyTorch, Keras
-* **Libraries:** OpenCV, Numpy, Matplotlib
-* **English:** CET-4 (582) && CET-6 (518)
-
-### 🏆 Honors & Awards
-
-* **Academic Service:** Reviewer for **IJCNN 2026** (CCF-C).
-* **Recognition:** SCU Outstanding Student (2025).
-* **Scholarships:** Single 2nd Class Scholarship && Comprehensive 3rd Class Scholarship.
-* **Innovation:** Leader of Provincial Innovation Program && 1 Software Copyright (1st Author).
-* **Competitions:** Provincial 3rd Prize in Mathematical Modeling.
+📍 四川大学 网络空间安全学院  
+📧 shejunjie07@gmail.com  
+📞 +86 183-2322-0638  
+💬 WeChat: S2570693564  
+🐧 QQ: 2570693564  
+🌐 GitHub: https://github.com/SnakeGin  
 
 ---
 
-# 🇨🇳 中文版本
+# 🇨🇳 中文简历
 
-### 📝 个人简介
+## 教育背景
 
-* **学校：** 四川大学 (SCU)
-* **学院：** 网络空间安全学院
-* **年级：** 2023级本科生
-* **学业成绩：** **专业排名前 15% (24/152) **&& 绩点: **3.69/4.0** (专业均分: 87.96)
-* **研究方向：** 多媒体取证、人工智能安全、深度学习。
+**四川大学**  
+网络空间安全｜本科  
+2022.09 – 至今  
 
-### 🔍 研究兴趣
+- 单项二等奖学金 ×1，综合三等奖学金 ×1  
+- GPA：3.69 / 4.0（87.96 / 100）  
+- 专业排名：15%（24 / 152）  
+- CET-4：582，CET-6：518  
 
-* **视频取证：** AI生成视频（Deepfake）的检测与溯源技术。
-* **人工智能安全：** 取证模型在重压缩、噪声、模糊等扰动下的鲁棒性与泛化性研究。
-* **多模态学习：** 利用多模态大模型（MLLM）进行视频语义理解与主谓宾结构化对齐。
-
-### 🚀 科研与项目经历
-
-#### 📄 AI 视频取证研究 (第一作者 | IJCNN 2026 在投)
-
-* **核心创新点：** 设计了**主谓宾 (SVO) 结构化框架**，借助多模态大模型（MLLM）提升跨模态语义对齐以及AI视频检测的鲁棒泛化性。
-* **主要成果：**
-  * 面对未知生成器时，AUC 超过现有最优（SoTA）方法 **3-5%**。
-  * 在重压缩等扰动下保持 **80%-90% 的 AUC**（领先 SoTA 方法 5%-10%）。
-* **工作内容：** 负责框架设计、模型训练评估及论文撰写。
-
-#### 🛠️ VideoSupervisor 系统 (项目负责人 | 省级大创项目)
-
-* **项目描述：** 面向短视频平台的真伪溯源取证与多模态关联分析系统。
-* **技术方案：**
-  * 结合视频噪声残差、色彩、光流及景深，基于 **ResNet** 进行多维度特征融合。
-  * 部署 **VideoLLaMa3** 模型，通过视频与标题的语义一致性检测误导内容。
-* **项目成果：** 平均检测率 90%，支持 Sora、Runway 等 8 种主流模型识别，获 **1 项国家软件著作权**。
-
-### 🛠️ 技术栈
-
-* **编程语言：** Python, C/C++
-* **框架工具：** PyTorch, Keras, OpenCV, Linux, Git, LaTeX
-* **语言能力：** 英语四级 (582) && 英语六级 (518)
-
-### 🏆 奖励荣誉
-
-* **学术服务：** **IJCNN 2026** 会议审稿人
-* **校级荣誉：** 四川大学 2025 校级优秀学生、单项/综合奖学金
-* **创新竞赛：** 数学建模竞赛省级三等奖、国家软件著作权（一作）
+**核心课程**
+- 计算机组成原理（86）
+- 操作系统与安全（95）
+- 数据结构（91）
+- 计算机通信与网络（91）
+- 网络安全技术（95）
 
 ---
 
-## 📬 Contact | 联系方式
+## 科研与项目经历
 
-* **Email:** shejunjie07@gmail.com
-* **GitHub:** [SnakeGin](https://github.com/SnakeGin)
-* **WeChat:** S2570693564
-* **QQ:** 2570693564
+### IJCNN 2026（CCF-C）会议论文（在投）｜第一作者  
+2025.06 – 至今  
+
+- 针对 AI 生成视频取证中鲁棒性与泛化性不足的问题，提出结构化视频建模方法  
+- 借鉴自然语言主–谓–宾（SVO）结构，引入多模态大模型辅助视频检测  
+- 负责方法设计、模型训练与评估、论文撰写与修改  
+- 在 seen / unseen generator 场景下，AUC 超 SoTA 方法 3–5%  
+- 在多种扰动条件下保持 80%–90% AUC，显著优于对比方法  
+
+---
+
+### 大学生创新创业训练计划（省级）｜负责人  
+2024.09 – 2025.09  
+
+**项目名称**：VideoSupervisor  
+- 面向短视频平台的 AI 视频真伪溯源与多模态关联分析系统  
+- 基于噪声残差、颜色、光流、景深等特征进行 AI 视频检测  
+- 支持 8 种生成器（含 Sora、Runway）溯源识别  
+- 引入多模态大模型分析视频与标题之间的语义一致性  
+- 模型检测 Acc ≈ 90%，AUC ≈ 88%，接近 SoTA  
+- 申请软件著作权 1 项（第一作者）  
+
+---
+
+## 专业技能
+
+- 编程语言：C / C++（STL），Python  
+- 深度学习：PyTorch，Keras  
+- 计算机视觉：OpenCV，NumPy，Matplotlib  
+- 系统能力：Linux，服务器模型训练与部署  
+- 工具：LaTeX，Git，Office  
+- 研究方向：多媒体取证，AI 安全  
+
+---
+
+## 奖励与荣誉
+
+- IJCNN 2026（CCF-C）｜审稿人  
+- 四川大学校级优秀学生  
+- 中国大学生数学建模竞赛｜省级三等奖  
+- 四川大学本科生奖学金｜综合三等奖  
+- 大学生创新创业训练计划｜省级负责人  
+- 中国计算机软件著作权｜第一作者  
+- 四川大学程序设计大赛（腾讯杯）｜决赛入围  
+
+---
+
+# 🇺🇸 English CV
+
+## Education
+
+**Sichuan University**  
+B.Eng. in Cybersecurity  
+Sep. 2022 – Present  
+
+- GPA: **3.69 / 4.0** (87.96 / 100)  
+- Rank: **Top 15%** (24 / 152)  
+- CET-4: 582, CET-6: 518  
+- Scholarships: Merit-based (2nd Prize ×1, 3rd Prize ×1)
+
+**Core Courses**
+- Computer Organization  
+- Operating Systems and Security  
+- Data Structures  
+- Computer Networks  
+- Network Security  
+
+---
+
+## Research & Projects
+
+### IJCNN 2026 (CCF-C) Submission | First Author  
+Jun. 2025 – Present  
+
+- Proposed a structured video representation method for AI-generated video forensics  
+- Introduced Subject–Verb–Object (SVO) inspired modeling with multi-modal LLMs  
+- Responsible for methodology design, model training, evaluation, and paper writing  
+- Achieved 3–5% AUC improvement over SoTA on seen and unseen generators  
+- Maintained 80–90% AUC under multiple perturbations (e.g., recompression)
+
+---
+
+### Provincial Undergraduate Innovation Project | Team Leader  
+Sep. 2024 – Sep. 2025  
+
+**Project**: VideoSupervisor  
+- AI-generated video detection and source attribution system for short-video platforms  
+- Feature fusion using noise residuals, color, optical flow, and depth  
+- Generator attribution across 8 generators (e.g., Sora, Runway)  
+- Multi-modal analysis between video content and titles using MLLMs  
+- Detection Accuracy ≈ 90%, AUC ≈ 88%  
+- Software copyright granted (First Author)
+
+---
+
+## Skills
+
+- Programming: C / C++, Python  
+- Deep Learning: PyTorch, Keras  
+- Computer Vision: OpenCV, NumPy, Matplotlib  
+- Systems: Linux, model training & deployment  
+- Tools: LaTeX, Git, Office  
+- Research Interests: Multimedia forensics, AI security  
+
+---
+
+## Honors & Awards
+
+- Reviewer, IJCNN 2026 (CCF-C)  
+- Outstanding Undergraduate Student, Sichuan University  
+- Mathematical Modeling Contest, Provincial Third Prize  
+- Undergraduate Scholarship, Sichuan University  
+- Provincial Innovation Project Leader  
+- Software Copyright (First Author)  
+- Programming Contest Finalist (Tencent Cup)
+
+---
+
+🔗 **GitHub**: https://github.com/SnakeGin
