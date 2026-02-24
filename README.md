@@ -13,7 +13,7 @@
 ### 📝 Profile
 * **University:** Sichuan University (SCU)
 * **College:** School of Cyber Science and Engineering
-* **Status:** Undergraduate (Class of 2026)
+* **Status:** Undergraduate (Class of 2027)
 * **Academic Standing:** **Top 15% (24/152)** | GPA: **3.69/4.0** (Major Score: 87.96/100)
 * **Focus:** Multimedia Forensics, AI Security, and Deep Learning.
 
@@ -61,7 +61,7 @@
 ### 📝 个人简介
 * **学校：** 四川大学 (SCU)
 * **学院：** 网络空间安全学院
-* **年级：** 2022级本科生
+* **年级：** 2023级本科生
 * **学业成绩：** **专业排名前 15% (24/152)** | 绩点: **3.69/4.0** (专业均分: 87.96)
 * **研究方向：** 多媒体取证、人工智能安全、深度学习。
 
